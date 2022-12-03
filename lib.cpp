@@ -1,3 +1,4 @@
+#include "primaLibreria.h"
 using namespace std;
 
 bool primo(int numero, int i) {
